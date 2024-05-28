@@ -4,4 +4,4 @@
 
 Вы можете прочитать всё о режимах [здесь](https://github.com/MefaLoot/UnrealHost/blob/main/Russian/Gamemodes-ru.md)
 
-# Этот мод еще не выпущен!
+# Этот мод ещё не выпущен!
