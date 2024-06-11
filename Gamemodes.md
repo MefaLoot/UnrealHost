@@ -8,6 +8,13 @@ Boss Mode:
 * If the Boss survives, they win. If not, they lose.
 * Note:  The "kill" button on the target reduces their HP by one point. The Boss can kill other players, but they will respawn.
 
+Team Battle Mode:
+* Players are divided into a chosen number of teams.
+* Teams must kill players from other teams to achieve victory.
+* Each "kill" button press reduces the target's HP by one point.
+* Players respawn after a set time.
+* The team with the most kills wins.
+
 ### Under Development:
 
 Role Mode:
@@ -19,13 +26,6 @@ Hot Potato Mode:
 * The last player win.
 
 ### Planned Modes:
-
-Team Battle Mode:
-* Players are divided into a chosen number of teams.
-* Teams must kill players from other teams to achieve victory.
-* Each "kill" button press reduces the target's HP by one point.
-* Players respawn after a set time.
-* The team with the most kills wins.
 
 Battle Royale Mode:
 * Each player fights for survival.
